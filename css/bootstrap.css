@@ -303,7 +303,7 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-  box-shadow: 3px 3px 0 #000;
+  box-shadow: 3px 3px 0 #fff;
 }
 .img-rounded {
   border-radius: 6px;
